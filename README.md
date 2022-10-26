@@ -1,2 +1,2 @@
 # bertDev-learn
-Repository untuk menyimpan rencana belajar Dart
+Repository untuk menyimpan rencana belajar Pemrogran Dart
