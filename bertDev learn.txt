@@ -1,0 +1,4 @@
+bertDev LEARN
+- Konsisten berlajar Dart dan FLutter
+- Mempelajari/ membaca tentang ALGORITMA PROGRAMMING
+- Memperkuat FUNDAMENTAL PROGRAMMING LANGUAGE
